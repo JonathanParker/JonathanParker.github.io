@@ -1,0 +1,60 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: Futura, Arial, sans-serif;
+	background: SteelBlue;
+}
+
+.container {
+	background: DarkSeaGreen;
+	border: 20px;
+	border-radius: 15px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 100px;
+}
+
+h1 {
+	font-size: 4em;
+	color: SteelBlue;
+	text-align: center;
+	padding-top: 20px;
+}
+
+h2 {
+	font-size: 2em;
+	color: SteelBlue;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+button {
+	float: right;
+	background: SteelBlue;
+	margin-right: 60px;
+	margin-top: 250px;
+	border: 0px;
+	width: 100px;
+	height: 50px;
+	border-radius: 5px;
+	font-size: 1.5em;
+	font-family: Futura;
+	color: DarkSeaGreen;
+}
+
+.grid {
+	margin: auto;
+	width: 480px;
+	height: 480px;
+	background: Azure;
+	border: 6px solid SteelBlue;
+	border-radius: 6px;
+}
+
+.square {
+	height: 14px;
+	width: 14px;
+	float: left;
+	background: Azure;
+	margin: 1px;
+}
