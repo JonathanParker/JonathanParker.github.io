@@ -1,0 +1,7 @@
+﻿.width40 {
+   max-width: 40%;
+}
+
+hr.star-dark:after {
+    background-color: #2c3e50;
+}
