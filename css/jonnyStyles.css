@@ -3,7 +3,7 @@
 }
 
 .contact-info {
-  background-image: url("../img/portfolio/Andromeda.jpeg");
+  background-image: url("../img/portfolio/Mountain.jpg");
   background-position: center;
   background-size: cover;
   color: white;
@@ -15,7 +15,12 @@
 
 .about-text {
   text-indent: 8%;
-  max-width: 60%;
+  max-width: 75%;
+}
+
+.pic-row {
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 hr.no-star {
@@ -30,6 +35,6 @@ hr.no-star {
 iframe {
   width: 90%;
   height: 50em;
-  max-width: 800px;
+  max-width: 1000px;
   margin-left: 5%;
 }
